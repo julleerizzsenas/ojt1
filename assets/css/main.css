@@ -1577,3 +1577,7 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+		.a {
+			text-align:center;
+		}
