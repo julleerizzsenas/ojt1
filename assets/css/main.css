@@ -1577,5 +1577,8 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+		
+		.b {
+			background-color: #ffffff;
 
 		
