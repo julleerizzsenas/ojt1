@@ -1622,4 +1622,8 @@
   cursor: pointer;
 }
 
+			
+.mySlides {
+  display: none;
+}
 		
